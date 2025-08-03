@@ -5,9 +5,11 @@ An incomplete and eclectic list of things I have come across and think are prett
 ## Index
 
 - [Ada](#ada)
-- [AI-ML](#ai-ml)
+- [AI-ML](#aiml)
 - [API](#api)
-- [C/C++](#c-c++)
+- [C/C++](#cc++)
+- [Devops](#devops)
+- [Editors](#editors)
 - [FPGA](#fpga)
 - [RISC-V](#risc-v)
 - [RTOS](#rtos)
@@ -15,6 +17,7 @@ An incomplete and eclectic list of things I have come across and think are prett
 
 
 ### Ada
+- [Awesome Ada](https://github.com/ohenley/awesome-ada) - Awesome Ada list.
 - [Alire](https://github.com/alire-project/alire) - A sandbox package manager / build tool for the Ada language.
 
 
@@ -26,6 +29,17 @@ An incomplete and eclectic list of things I have come across and think are prett
 
 ### C/C++
 
+
+
+### Devops
+- [Ansible](https://github.com/ansible/ansible) - Cross-platform IT deployment and orchestration tool. Written in Python.
+
+
+### Editors
+- [Spacemacs](https://github.com/syl20bnr/spacemacs) - A modern replacement for Emacs. Why should the old nerds have all the pain?!
+- Vim/Neovim
+  - [LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy.
+ 
 
 ### FPGA
 - [Yosys](https://github.com/YosysHQ/yosys) - YoSys Open Synthesis Suite. A framework for RTL synthesis tools. Support for Lattice ICE40, Xilinx etc.
