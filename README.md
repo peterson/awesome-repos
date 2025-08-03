@@ -53,7 +53,7 @@ An incomplete and eclectic list of things I have come across and think are prett
 
 
 ### RTOS
-- [HiRTOS](https://github.com/jgrivera67/HiRTOS) - A high integrity RTOS written in [Ada](#ada).
+- [HiRTOS](https://github.com/jgrivera67/HiRTOS) - A high integrity RTOS written in [Ada](#ada). Not a full or mature RTOS implementation (although pretty close) but obviously written by a real-world industrial programmer who clearly knows their shit.
 - [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - A scalable RTOS targeting resource constrained devices. Supports multiple architectures, including ARM Cortex-M, Intel x86, ARC, Nios II, Tensilica Xtensa, and RISC-V, and a large number of supported boards.
 
 
